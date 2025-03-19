@@ -1,0 +1,5 @@
+/_docker
+/docker-compose.yml
+/tmp
+/public
+/public_html
